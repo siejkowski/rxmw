@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata
+rxmw.xccheckout
+WorkspaceSettings.xcsettings  
+.idea
+Pods
+build/
+Carthage/
+xcodebuild.log
+
